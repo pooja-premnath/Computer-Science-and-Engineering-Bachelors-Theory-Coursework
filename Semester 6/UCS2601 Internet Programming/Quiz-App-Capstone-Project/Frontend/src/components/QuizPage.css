@@ -1,0 +1,80 @@
+.question {
+  color: black;
+  display: flex;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.469);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#questionLeft {
+  margin-right: 40px;
+}
+
+#questionFont {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+#question {
+  margin-top: 10px;
+}
+
+#counter {
+  border-radius: 1200px;
+  border: 1px solid black;
+  padding: 6px 10px;
+  margin-bottom: 20px;
+  display: inline-flex;
+  margin-left: auto;
+}
+
+.questionChoice {
+  display: block;
+  background-color: black;
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: white;
+}
+
+.questionChoice:disabled {
+  background-color: red;
+  box-shadow: none;
+  border: 1px solid black;
+}
+
+.correctChoice {
+  display: block;
+  background-color: rgb(8, 214, 8);
+  color: black;
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  box-shadow: none;
+}
+.correctChoice:active {
+  box-shadow: none;
+}
+
+#score {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#submitButton {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

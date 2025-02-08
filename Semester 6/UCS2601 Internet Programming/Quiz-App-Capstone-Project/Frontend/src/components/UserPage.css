@@ -1,0 +1,28 @@
+body {
+  background-color: rgba(250, 239, 228, 255);
+}
+
+#startDiv {
+  position: absolute;
+  top: 35%;
+  left: 40%;
+}
+
+#welcomeText {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: x-large;
+}
+
+#startButton {
+  margin-top: 20px;
+  background-color: rgb(8, 214, 8);
+  border: 1px solid black;
+  padding: 7.5px 15px;
+  border-radius: 7.5px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.698);
+}
+
+#startButton:active {
+  box-shadow: none;
+}

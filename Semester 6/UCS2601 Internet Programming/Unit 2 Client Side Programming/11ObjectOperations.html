@@ -1,0 +1,44 @@
+<html>
+    <script>
+
+        //create an object and display the parameter values
+        var obj1={
+            name: "pooja",
+            age: 21
+        }
+
+        console.log(obj1.name)
+        console.log(obj1.age)
+
+
+        //print all the object keys and values- gives a list each
+        console.log(Object.keys(obj1))
+        console.log(Object.values(obj1))
+
+        //change the value of an object
+        obj1.name="Pooja Premnath"
+        console.log(obj1)
+
+
+        //iterate through an object
+        for (let i in obj1){
+            console.log(i + " " + obj1[i])
+        }
+
+        //delete an object property
+        delete obj1.age;
+        console.log(obj1)
+    
+
+        //creation of a function inside an object
+        var obj2={
+            fname:"pooja",
+            lname:"premnath",
+            fullname: function(){
+                return "the full name is "+this.fname+ " "+this.lname
+            }
+        }
+
+        console.log(obj2.fullname())
+    </script>
+</html>

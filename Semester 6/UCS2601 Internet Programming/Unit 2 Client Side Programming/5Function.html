@@ -1,0 +1,14 @@
+<html>
+
+    <body>
+        <div id="output"></div>
+    </body>
+    <script>
+        function printName(){
+            return "Hi this is Pooja"
+        }
+
+        var outputString= JSON.stringify(printName())
+        document.getElementById("output").textContent=outputString
+    </script>
+</html>

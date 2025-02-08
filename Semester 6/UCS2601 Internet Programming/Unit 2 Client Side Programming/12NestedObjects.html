@@ -1,0 +1,21 @@
+<html>
+    <script>
+        //write a program to create a nested object. also include a function that prints the values of elements in an array
+        var obj={
+            name: "Pooja",
+            age: 21,
+            hobbies: ["singing", "dancing", "studying"],
+            drinks:{
+                morning: "coffee",
+                night: "milk"
+            },
+            concatfunction: function(){
+                return "My hobbies are " + this.hobbies.join(" and ")
+            }
+        }
+
+
+        console.log(obj.drinks.morning)
+        console.log(obj.concatfunction())
+    </script>
+</html>

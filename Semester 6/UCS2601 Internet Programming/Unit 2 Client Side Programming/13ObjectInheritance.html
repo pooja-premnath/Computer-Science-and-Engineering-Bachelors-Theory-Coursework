@@ -1,0 +1,17 @@
+<html>
+    <script>
+        var vehicleObject={
+            doors:4,
+            wheels:4,
+            action: function(){
+                return "running"
+            }
+        }
+
+        var vehicle1=Object.create(vehicleObject);
+        vehicle1.doors=3;
+        vehicle1.wheels=2;
+        console.log(vehicle1)
+        console.log("The vehicle is " + vehicle1.action())
+    </script>
+</html>

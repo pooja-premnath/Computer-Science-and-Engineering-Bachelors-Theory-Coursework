@@ -1,0 +1,31 @@
+<html>
+
+    <head>
+    <script>
+
+            function addParagraph(){
+
+                var newPara= document.createElement('p')
+
+                var textNode=document.createTextNode("This is a new paragraph")
+
+                newPara.append(textNode)
+
+                var content=document.getElementById("content")
+
+                content.appendChild(newPara)
+
+
+
+            }
+    </script>
+    </head>
+
+
+
+    <body>
+        <p>This is the first paragraph element</p>
+        <div id="content"></div>
+        <button onClick="addParagraph()">Add paragraph</button>
+    </body>
+</html>

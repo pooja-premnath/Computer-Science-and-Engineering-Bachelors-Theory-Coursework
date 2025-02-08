@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <script>
+
+            function insertParagraph(){
+                var newElement=document.createElement('p')
+                var newparagraph=document.createTextNode('This is a new paragraph element')
+                newElement.append(newparagraph)
+
+                var bodytag=document.getElementById('bodyId')
+                bodytag.appendChild(newElement)
+            }
+
+
+            function addListElement(){
+                var newElement=document.createElement('li')
+                var newListItem=document.createTextNode('This is the second list element')
+                newElement.appendChild(newListItem)
+
+                var currentNode=document.getElementById('two')
+                currentNode.parentNode.insertBefore(newElement,currentNode)
+            }
+
+
+            function changeBackgroundColor(){
+                var thirdElement=document.getElementById('three');
+                thirdElement.style.backgroundColor='pink'
+            }
+
+            function changeContent(){
+
+                var newElement=document.createElement('li')
+                var listItem=document.createTextNode('This is the changed content')
+                newElement.appendChild(listItem)
+
+                var currentNode=document.getElementById('three')
+                currentNode.parentNode.replaceChild(newElement,currentNode)
+            }
+        </script>
+    </head>
+
+    <body id="bodyId">
+        <ol>
+            <li id="one">One</li>
+            <li id="two">Two</li>
+            <li id="three">Three</li>
+            <li id="four">Four</li>
+        </ol>
+
+        <button onclick="insertParagraph()">Insert Paragraph</button>
+        <button onclick="addListElement()">Add List Element</button>
+        <button onclick="changeBackgroundColor()">Change Background Color</button>
+        <button onclick="changeContent()">Change Content</button>
+    </body>
+</html>

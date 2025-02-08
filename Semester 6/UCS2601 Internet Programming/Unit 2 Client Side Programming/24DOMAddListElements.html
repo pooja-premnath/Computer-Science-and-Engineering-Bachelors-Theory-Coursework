@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <script>
+
+            function addElement(){
+
+
+                var newElement=document.createElement('li');
+
+                var input=document.getElementById("ele").value;
+                var listItem=document.createTextNode(input)
+
+                newElement.appendChild(listItem)
+
+                var ogList=document.getElementById('listelements')
+                ogList.appendChild(newElement)
+
+
+
+
+
+            }
+        </script>
+    </head>
+
+    <body>
+        <ul id="listelements">
+            <li>Pizza</li>
+            <li>Cats</li>
+            <li>Friends</li>
+        </ul>
+
+        <input type="text" placeholder="enter new element" id="ele" name="ele"/>
+        <button onClick="addElement()">Add List Element</button>
+    </body>
+</html>

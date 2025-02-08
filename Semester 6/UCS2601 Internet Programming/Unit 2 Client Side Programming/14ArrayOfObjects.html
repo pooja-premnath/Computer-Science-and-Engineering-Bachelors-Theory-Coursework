@@ -1,0 +1,34 @@
+<html>
+    <script>
+        var arrObj=[
+            {
+                name:"apple",
+                cost:100
+            },
+
+            {
+                name:"orange",
+                cost:200
+            },
+
+            {
+                name:"banana",
+                cost:500
+            }
+        ]
+
+
+        //display all the elements
+        for (let i=0;i<arrObj.length;i++){
+            console.log(arrObj[i].name + " " + arrObj[i].cost)
+        }
+
+
+        //calculate the total cost of all the objects
+        var total=0
+        for (let i=0;i<arrObj.length;i++){
+            total=total+arrObj[i].cost
+        }
+        console.log("Total: " + total)
+    </script>
+</html>

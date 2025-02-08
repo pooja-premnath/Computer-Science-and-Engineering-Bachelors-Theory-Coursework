@@ -1,0 +1,49 @@
+<html>
+    <script>
+        var arr=[500, 100,200,300]
+
+        //add an element at the end of the array
+        arr.push(400)
+        console.log(arr)
+
+        //print an element of the array at a specific position
+        console.log(arr[2])
+
+        //sort the array
+        console.log(arr.sort( function compare (first, second){
+            return first-second
+        }))
+
+        //reverse the array
+        arr.reverse()
+        console.log(arr)
+
+        //remove the last element from the array
+        arr.reverse()
+        arr.pop()
+        console.log(arr)
+
+        //slice array
+        let slicedarr=arr.slice(1,3)
+        console.log(slicedarr)
+
+        //slice the array with start index to the end
+        let slicedarr2=arr.slice(1)
+        console.log(slicedarr2)
+
+        //creating a shallow copy of the array- changes in the sliced array will also affect the og arr
+        let arr2=arr.slice()
+        console.log(arr2)
+
+
+        //concatentation of two arrays
+        let arr3=arr+arr2;
+        console.log(arr3)
+
+        //shift to remove the first element of the array
+        arr.shift()
+        console.log(arr)
+
+
+</script>
+</html>

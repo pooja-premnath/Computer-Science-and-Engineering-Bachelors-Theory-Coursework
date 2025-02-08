@@ -1,0 +1,28 @@
+<html>
+    <script>
+        let arr=[1,2,3,4,5]
+
+        //remove all elements from a given index onwards
+        let removedelements=arr.splice(2)
+        console.log(arr)
+        console.log(removedelements)
+
+
+        //remove n elements starting from a given index
+        arr=[1,2,3,4,5]
+        //removes 2 and 4
+        arr.splice(2,2)
+        console.log(arr)
+
+        //add an element in the array and shift the other elements
+        //add element with value 2.5 at the index 2 and shift the other elements
+        arr=[1,2,3,4,5]
+        arr.splice(2,0,2.5)
+        console.log(arr)
+
+
+        //don't delete any elements but add to more numbers after 3
+        arr.splice(3,0,40000,50000)
+        console.log(arr)
+    </script>
+</html>

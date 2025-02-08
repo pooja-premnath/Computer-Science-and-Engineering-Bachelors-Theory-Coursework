@@ -1,0 +1,18 @@
+<html>
+    <body>
+        <div id="arr"></div>
+    </body>
+    <script>
+        var arr1=[[1,1,1],[1,1,1]]
+        var arr2=[[2,2,2],[2,2,2]]
+        var sumarr=[]
+        for (let i=0; i<arr1.length;i++){
+            sumarr.push([])
+            for (let j=0;j<arr1[i].length ;  j++){
+                sumarr[i].push(arr1[i][j] + arr2[i][j])
+            }
+        }
+        var output=JSON.stringify(sumarr)
+        document.getElementById("arr").textContent=output
+    </script>
+</html>

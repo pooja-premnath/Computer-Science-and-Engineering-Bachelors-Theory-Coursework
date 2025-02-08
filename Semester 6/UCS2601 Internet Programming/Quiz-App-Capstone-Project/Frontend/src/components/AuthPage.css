@@ -1,0 +1,36 @@
+.authDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.authButton {
+  border: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.289);
+  margin-right: 20px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border-radius: 10px;
+}
+
+#user {
+  background-color: blue;
+}
+
+#buttons {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.authButton:active {
+  box-shadow: none;
+}
+
+.inputType {
+  padding: 5px 15px 5px 5px;
+  margin-left: 10px;
+}

@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <script>
+
+            function addBefore(){
+                var newElement=document.createElement('li')
+                var listItem=document.createTextNode("two")
+                newElement.appendChild(listItem)
+
+                var currentNode=document.getElementById("three")
+                currentNode.parentNode.insertBefore(newElement,currentNode)
+            }
+
+
+            function addAfter(){
+
+                var newElement=document.createElement('li')
+                var listItem=document.createTextNode("3.5")
+                newElement.appendChild(listItem)
+
+                var currentNode=document.getElementById('three')
+                currentNode.insertAdjacentElement('afterend',newElement)
+            }
+
+
+            function removeNode(){
+                var currentNode=document.getElementById("three")
+                currentNode.parentNode.removeChild(currentNode)
+            }
+
+
+            function replaceNode(){
+                var currentNode=document.getElementById("three")
+                var newNode=document.createElement("li")
+                var newListElement=document.createTextNode("I am the replaced three")
+                newNode.appendChild(newListElement)
+
+                currentNode.parentNode.replaceChild(newNode,currentNode)
+
+            }
+
+
+        </script>
+    </head>
+
+
+    <body>
+        <ul>
+            <li id="one">One</li>
+            <li id="three">Three</li>
+            <li id="four">Four</li>
+           
+        </ul>
+
+        <button onclick="addBefore()">Add Before</button>
+        <button onclick="addAfter()">Add After</button>
+        <button onclick="removeNode()">Remove Node</button>
+        <button onclick="replaceNode()">Replace Node</button>
+    </body>
+</html>

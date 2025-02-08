@@ -1,0 +1,24 @@
+<html>
+    <script>
+        function func(){
+            var arr=[]
+            var marked=document.getElementsByName("cb");
+            for (var i=0;i<marked.length;i++){
+                if (marked[i].checked){
+                    arr.push(marked[i].value)
+                }
+            }
+
+            console.log(arr)
+            document.getElementById("stuff").innerHTML=arr
+        }
+    </script>
+
+    <body>
+        Cat <input type="checkbox" value="cat" name="cb">
+        Panda <input type="checkbox" value="panda" name="cb">
+        Octopus<input type="checkbox" value="octopus" name="cb">
+        <button onclick="func()">Submit</button>
+        <h1 id="stuff"></h1>
+    </body>
+</html>

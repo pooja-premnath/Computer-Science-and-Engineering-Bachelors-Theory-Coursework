@@ -1,0 +1,20 @@
+<html>
+    <script>
+        function func(){
+            var age=document.getElementById("age").value;
+            if (age<0 || age>100){
+                document.getElementById("stuff").innerHTML="Invalid Age"
+            }
+
+            else{
+                document.getElementById("stuff").innerHTML="Your age is " + age;
+            }
+        }
+    </script>
+
+    <body>
+        <input type="text" placeholder="Enter the age" id="age"/>
+        <button onclick="func()">Submit Age</button>
+        <h1 id="stuff"></h1>
+    </body>
+</html>

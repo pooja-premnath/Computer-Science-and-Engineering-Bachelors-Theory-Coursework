@@ -1,0 +1,16 @@
+<html>
+    <script>
+
+        function On(){
+            document.getElementById("bulb").src="bulbon.png"
+        }
+
+        function Off(){
+            document.getElementById("bulb").src="bulboff.jpg"
+        }
+    </script>
+
+    <body>
+        <img id="bulb" src="bulboff.jpg" onmouseover="On()" onmouseout="Off()"/>
+    </body>
+</html>

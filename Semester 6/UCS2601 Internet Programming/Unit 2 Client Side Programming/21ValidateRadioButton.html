@@ -1,0 +1,23 @@
+<html>
+    <script>
+        function func(){
+            var arr=[]
+            var marked=document.getElementsByName("rad");
+            for (var i=0;i<marked.length;i++){
+                if (marked[i].checked){
+                    arr.push(marked[i].value)
+                }
+            }
+
+            document.getElementById("stuff").innerHTML=arr;
+        }
+    </script>
+
+    <body>
+        Mouse <input type="radio" value="mouse" name="rad">
+        Bear<input type="radio" value="bear" name="rad">
+        Panda <input type="radio" value="panda" name="rad">
+        <button onclick="func()">Submit</button>
+        <h1 id="stuff"></h1>
+    </body>
+</html>

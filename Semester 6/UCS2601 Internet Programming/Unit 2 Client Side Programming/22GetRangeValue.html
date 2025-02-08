@@ -1,0 +1,14 @@
+<html>
+    <script>
+
+        function func(){
+            var val=document.getElementById("values").value;
+            document.getElementById("stuff").innerHTML=val;
+        }
+    </script>
+
+    <body>
+        <input type="range" id="values" min="5" max="10" onchange="func()">
+        <h1 id="stuff"></h1>
+    </body>
+</html>

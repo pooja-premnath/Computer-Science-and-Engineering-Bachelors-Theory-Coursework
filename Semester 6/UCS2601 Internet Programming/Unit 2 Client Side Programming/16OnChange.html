@@ -1,0 +1,19 @@
+<html>
+    <script>
+        function displayDetails(){
+            var value=document.getElementById("selected").value;
+            document.getElementById("content").innerHTML="You have selected " + value;
+        }
+    </script>
+
+    <body>
+        <select id="selected" onChange="displayDetails()">
+            <option>Cat</option>
+            <option>Dog</option>
+            <option>Mouse</option>
+        </select>
+
+
+        <h1 id="content"></h1>
+    </body>
+</html>
