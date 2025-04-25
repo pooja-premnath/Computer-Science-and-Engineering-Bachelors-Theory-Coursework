@@ -1,4 +1,4 @@
-# UCS2H26 - Computer Vision
+# UCS2H26 - Computer Vision (Honors)
 
 
 ## Unit I: Image-Based Feature Extraction
