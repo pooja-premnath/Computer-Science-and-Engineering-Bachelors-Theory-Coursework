@@ -1,4 +1,4 @@
-# UCS2H27 - Business Intelligence
+# UCS2H27 - Business Intelligence (Honors)
 
 
 ## Unit I: Introduction to Business Analytics
