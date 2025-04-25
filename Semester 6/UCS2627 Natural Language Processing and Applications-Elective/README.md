@@ -1,4 +1,4 @@
-# UCS2627 - Natural Language Processing and Applications
+# UCS2627 - Natural Language Processing and Applications (Elective)
 
 
 ## Unit I: Text Pre-processing and Language Modelling
