@@ -1,4 +1,4 @@
-# UCS2725 - Deep Learning
+# UCS2725 - Deep Learning (Elective)
 
 
 
