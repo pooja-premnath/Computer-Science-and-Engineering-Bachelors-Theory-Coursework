@@ -42,18 +42,18 @@ Wherever possible, I have also linked related lab programs or project repositori
 
 - ACY2276 - Environmental Science  
 - UCS2201 - Fundamentals and Practice of Software Development  
-- UCS2202 - Foundations of Data Science  
+- [UCS2202 - Foundations of Data Science](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UCS2202%20Foundations%20of%20Data%20Science)  
 - UCS2211 - Programming in C Laboratory  
-- UEE2276 - Basic Electrical and Electronics Engineering  
+- [UEE2276 - Basic Electrical and Electronics Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UEE2276%20Basic%20Electrical%20and%20Electronics%20Engineering)
 - UGE2297 - Design Thinking and Engineering Practices Laboratory  
-- UHS2242 - Applications of Psychology in Everyday Life  
+- [UHS2242 - Applications of Psychology in Everyday Life](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UHS2242%20Applications%20of%20Psychology%20in%20Everyday%20Life)
 - UMA2276 - Complex Functions and Laplace Transforms  
 
 ---
 
 ## Semester 3
 
-- UCS2301 - Digital Principles and System Design  
+- [UCS2301 - Digital Principles and System Design](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UCS2301%20Digital%20Principles%20and%20System%20Design)  
 - UCS2302 - Data Structures  
 - UCS2303 - Object Oriented Programming  
 - UCS2311 - Digital Design Laboratory  
@@ -66,10 +66,10 @@ Wherever possible, I have also linked related lab programs or project repositori
 
 ## Semester 4
 
-- UCS2401 - Computer Organization and Architecture  
-- UCS2402 - Operating Systems  
+- [UCS2401 - Computer Organization and Architecture](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2401%20Computer%20Organization%20and%20Architecture)  
+- [UCS2402 - Operating Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2402%20Operating%20Systems) 
 - UCS2404 - Design and Analysis of Algorithms  
-- UCS2408 - Database Management Systems  
+- [UCS2408 - Database Management Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2404%20Database%20Management%20Systems) 
 - UCS2411 - Database Laboratory  
 - UCS2412 - Operating Systems Laboratory  
 - UMA2476 - Probability and Statistics  
@@ -78,32 +78,32 @@ Wherever possible, I have also linked related lab programs or project repositori
 
 ## Semester 5
 
-- UBA2541 - Principles of Management  
+- [UBA2541 - Principles of Management](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UBA2541%20Principles%20of%20Management)  
 - UCS2501 - Computer Networks  
-- UCS2502 - Microprocessors, Microcontrollers, and Interfacing  
-- UCS2503 - Software Engineering  
+- [UCS2502 - Microprocessors, Microcontrollers, and Interfacing](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2502%20Microprocessors%2C%20Microcontrollers%20and%20Interfacing)
+- [UCS2503 - Software Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2503%20Software%20Engineering)  
 - UCS2504 - Foundations of Artificial Intelligence  
 - UCS2511 - Networks Laboratory  
 - UCS2512 - Microprocessors Laboratory  
-- UCS2521 - Image Processing and Analysis (Elective)
-- UCS2522 - Soft Computing  (Honors)
-- UCS2H34 - Mathematics for Machine Learning  (Honors)
+- [UCS2521 - Image Processing and Analysis (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2523%20Image%20Processing%20and%20Analysis-Elective)
+- [UCS2522 - Soft Computing  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2H22%20Soft%20Computing-Honors)
+- [UCS2H34 - Mathematics for Machine Learning  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2H34%20Mathematics%20for%20Machine%20Learning-Honors)
 
 ---
 
 ## Semester 6
 
-- UCS2601 - Internet Programming  
-- UCS2602 - Software System Security  
+- [UCS2601 - Internet Programming](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2601%20Internet%20Programming)  
+- [UCS2602 - Software System Security](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2602%20Software%20System%20Security)   
 - UCS2603 - Theory of Computation  
-- UCS2604 - Principles of Machine Learning  
+- [UCS2604 - Principles of Machine Learning](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2604%20Principles%20of%20Machine%20Learning)  
 - UCS2611 - Internet Programming Laboratory  
 - UCS2612 - Machine Learning Laboratory  
-- UCS2626 - Natural Language Processing and Applications  (Elective)
-- UCS2H26 - Computer Vision  (Honors)
-- UCS2H27 - Business Intelligence  (Honors)
+- [UCS2626 - Natural Language Processing and Applications  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2627%20Natural%20Language%20Processing%20and%20Applications-Elective)
+- [UCS2H26 - Computer Vision  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H26%20Computer%20Vision-Honors)
+- [UCS2H27 - Business Intelligence  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H27%20Business%20Intelligence-Honors)
 - UEN2041 - English for Career Needs  (Open Elective)
-- UCSOL07 - Affective Computing (NPTEL) - for the 8th semester
+- [UCSOL07 - Affective Computing (NPTEL) - for the 8th semester](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/Affective%20Computing-%20NPTEL)
 - UCSOL05 - Privacy and Security in Online Social Media (NPTEL) - for the 8th semester
   
 
@@ -111,16 +111,16 @@ Wherever possible, I have also linked related lab programs or project repositori
 
 ## Semester 7
 
-- UCS2701 - Distributed Systems  
-- UCS2702 - Compiler Design  
-- UCS2703 - Software Architecture  
+- [UCS2701 - Distributed Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2701%20Distributed%20Systems)  
+- [UCS2702 - Compiler Design](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2702%20Compiler%20Design%20Theory) 
+- [UCS2703 - Software Architecture](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2703%20Software%20Architecture)  
 - UCS2716 - Industrial Training / Internship  (Credits towards internship done post 6th sem)
 - UCS2718 - Project Work Phase I  
-- UCS2723 - Deep Learning  (Elective)
-- UCS2728 - Introduction to Blockchain Technologies  (Elective)
-- UCS2735 - Bioinformatics Technologies  (Elective)
-- UCS2H24 - Principles of Reinforcement Learning  (Honors)
-- UCS2H36 - Principles of Pattern Recognition  (Honors)
+- [UCS2723 - Deep Learning  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2723%20Deep%20Learning-Elective)
+- [UCS2728 - Introduction to Blockchain Technologies  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2729%20Introduction%20to%20Blockchain%20Technologies-Elective)
+- [UCS2735 - Bioinformatics Technologies  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2735%20Bioinformatics%20Technologies-Elective)
+- [UCS2H24 - Principles of Reinforcement Learning  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2H24%20Principles%20of%20Reinforcement%20Learning-Honors)
+- [UCS2H36 - Principles of Pattern Recognition  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2H36%20Principles%20of%20Pattern%20Recognition-Honors)
 
 
 ---
