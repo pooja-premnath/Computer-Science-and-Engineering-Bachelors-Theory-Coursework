@@ -90,7 +90,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UCS2503 - Software Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2503%20Software%20Engineering)  
 - UCS2504 - Foundations of Artificial Intelligence
   - [Lab Work](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence)
-  - [Course Mini Project](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence/tree/main/A-MazingAdventures%20Mini%20Project): A-Mazing Adventures with [VS Pranav](https://github.com/vspr14),[Sanjai Balajee KG](https://github.com/sanjaibalajee) and Sanjjit S.
+  - [Course Mini Project](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence/tree/main/A-MazingAdventures%20Mini%20Project): A-Mazing Adventures with [VS Pranav](https://github.com/vspr14), [Sanjai Balajee KG](https://github.com/sanjaibalajee) and Sanjjit S.
 - UCS2511 - Networks Laboratory  
 - UCS2512 - Microprocessors Laboratory  
 - [UCS2521 - Image Processing and Analysis (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2523%20Image%20Processing%20and%20Analysis-Elective)
