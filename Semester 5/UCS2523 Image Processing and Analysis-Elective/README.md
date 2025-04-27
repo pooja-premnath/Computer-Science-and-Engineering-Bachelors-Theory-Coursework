@@ -1,4 +1,4 @@
-# UCS2523 - Image Processing and Analysis
+# UCS2523 - Image Processing and Analysis (Elective)
 
 
 ## Unit I: Digital Image Fundamentals
