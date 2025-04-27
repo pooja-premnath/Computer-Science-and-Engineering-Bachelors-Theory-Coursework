@@ -95,7 +95,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - UCS2512 - Microprocessors Laboratory  
 - [UCS2521 - Image Processing and Analysis (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2523%20Image%20Processing%20and%20Analysis-Elective)
   - [Course Mini Project Part 1](https://github.com/pooja-premnath/UCS2521-Image-Processing-Mini-Project-Part-1-Edge-Detection-Methods): Edge Detection Methods
-  - [Course Mini Project Part 2](https://github.com/pooja-premnath/UCS2521-Image-Processing-Mini-Project-Part-2-Image-Super-Resolution-Methods): Image Superresolution Methods
+  - [Course Mini Project Part 2](https://github.com/pooja-premnath/UCS2521-Image-Processing-Mini-Project-Part-2-Image-Super-Resolution-Methods): Image Super Resolution Methods
   
 - [UCS2522 - Soft Computing  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2H22%20Soft%20Computing-Honors)
 - [UCS2H34 - Mathematics for Machine Learning  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2H34%20Mathematics%20for%20Machine%20Learning-Honors)
