@@ -115,7 +115,9 @@ If you find any errors or have suggestions for improvements, feel free to open a
 ## Semester 7
 
 - [UCS2701 - Distributed Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2701%20Distributed%20Systems)  
-- [UCS2702 - Compiler Design](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2702%20Compiler%20Design%20Theory) 
+- [UCS2702 - Compiler Design](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2702%20Compiler%20Design%20Theory)
+  - [Lab Work](https://github.com/pooja-premnath/UCS2702-Compiler-Design)
+  - [Mini Compiler Implementation](https://github.com/pooja-premnath/UCS2702-Compiler-Design/tree/main/Implementation%20of%20a%20Simple%20Compiler) - Credits to [@Parthiee](https://github.com/Parthiee)
 - [UCS2703 - Software Architecture](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2703%20Software%20Architecture)  
 - UCS2716 - Industrial Training / Internship  (Credits towards internship done post 6th sem)
 - UCS2718 - Project Work Phase I  
