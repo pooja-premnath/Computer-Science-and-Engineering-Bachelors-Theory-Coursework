@@ -5,7 +5,7 @@ These are the courses I completed during my undergraduate studies in Computer Sc
 Each semester, I would write notes to help myself understand the material better, and so that I wouldn't stare at my laptop screen too much.  
 Now that I have finished my undergraduate degree, I thought of putting them together here in case they might be helpful to others.  
 
-I have notes for most subjects, but there are a few where I put in some extra effort — either because:  
+I have notes for most subjects, but there are a few where I put in some extra effort - either because:  
 - The subject was difficult and needed more focus, or  
 - I found the subject interesting and wanted to study it more carefully.
 
@@ -103,6 +103,9 @@ Wherever possible, I have also linked related lab programs or project repositori
 - UCS2H26 - Computer Vision  (Honors)
 - UCS2H27 - Business Intelligence  (Honors)
 - UEN2041 - English for Career Needs  (Open Elective)
+- UCSOL07 - Affective Computing (NPTEL) - for the 8th semester
+- UCSOL05 - Privacy and Security in Online Social Media (NPTEL) - for the 8th semester
+  
 
 ---
 
@@ -120,4 +123,10 @@ Wherever possible, I have also linked related lab programs or project repositori
 - UCS2H36 - Principles of Pattern Recognition  (Honors)
 
 
+---
 
+## Semester 8
+
+- UCS2818 - Project Work Phase II  
+
+---
