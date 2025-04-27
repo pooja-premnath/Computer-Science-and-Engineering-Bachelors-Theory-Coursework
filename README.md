@@ -43,7 +43,8 @@ If you find any errors or have suggestions for improvements, feel free to open a
 ## Semester 2
 
 - ACY2276 - Environmental Science  
-- UCS2201 - Fundamentals and Practice of Software Development  
+- UCS2201 - Fundamentals and Practice of Software Development
+  - [Course Project](https://github.com/pooja-premnath/UCS2201-Fundamentals-and-Practice-of-Software-Development-Capstone-Project): Timetable Management System using Graph Coloring Methods  
 - [UCS2202 - Foundations of Data Science](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UCS2202%20Foundations%20of%20Data%20Science)  
 - UCS2211 - Programming in C Laboratory  
 - [UEE2276 - Basic Electrical and Electronics Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UEE2276%20Basic%20Electrical%20and%20Electronics%20Engineering)
@@ -99,11 +100,14 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UCS2601 - Internet Programming](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2601%20Internet%20Programming)  
 - [UCS2602 - Software System Security](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2602%20Software%20System%20Security)   
 - UCS2603 - Theory of Computation  
-- [UCS2604 - Principles of Machine Learning](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2604%20Principles%20of%20Machine%20Learning)  
+- [UCS2604 - Principles of Machine Learning](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2604%20Principles%20of%20Machine%20Learning) 
 - UCS2611 - Internet Programming Laboratory  
-- UCS2612 - Machine Learning Laboratory  
+- UCS2612 - Machine Learning Laboratory
+  - [Lab Work and Tutorial Files](https://github.com/pooja-premnath/UCS2612-Machine-Learning-Laboratory)
 - [UCS2626 - Natural Language Processing and Applications  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2627%20Natural%20Language%20Processing%20and%20Applications-Elective)
+  - [Course Project](https://github.com/pooja-premnath/CheckThat-CLEF2024-From-Feature-based-Algorithms-to-Transformers-A-Study-on-Detecting-Subjectivity?tab=readme-ov-file): From Feature-based Algorithms to Transformers: A Study on Detecting Subjectivity for the CheckThat! Lab at CLEF 2024 (Ranked 3rd Place) - with [VS Pranav](https://github.com/vspr14)
 - [UCS2H26 - Computer Vision  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H26%20Computer%20Vision-Honors)
+  - [Code Snippets](https://github.com/pooja-premnath/UCS2H26-ComputerVision-Honors-Coursework)
 - [UCS2H27 - Business Intelligence  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H27%20Business%20Intelligence-Honors)
 - UEN2041 - English for Career Needs  (Open Elective)
 - [UCSOL07 - Affective Computing (NPTEL) - for the 8th semester](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/Affective%20Computing-%20NPTEL)
