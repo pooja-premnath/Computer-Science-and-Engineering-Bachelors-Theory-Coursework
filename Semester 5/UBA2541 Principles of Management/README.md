@@ -1,15 +1,5 @@
 # UBA2541 - Principles of Management
 
-## Course Objectives
-- To sketch the evolution of management  
-- To extract the functions and principles of management  
-- To learn the application of the principles in an organization  
-- To study the various HR-related activities  
-- To analyze the position of self and company goals towards business  
-
-**L T P E C:** 3 0 0 0 3  
-
----
 
 ## Unit I: Introduction to Management and Organizations
 
