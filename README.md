@@ -22,6 +22,8 @@ The subjects where I ended up making especially detailed notes are:
 
 Wherever possible, I have also linked related lab programs or project repositories for each subject.
 
+If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. I'd appreciate it! 
+
 ---
 
 
