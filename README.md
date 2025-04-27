@@ -115,7 +115,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
   - [Code Snippets](https://github.com/pooja-premnath/UCS2H26-ComputerVision-Honors-Coursework)
 - [UCS2H27 - Business Intelligence  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H27%20Business%20Intelligence-Honors): 3D Point Mapping, Edge Detection, Viola Jones and Eigen Faces
 - UEN2041 - English for Career Needs  (Open Elective)
-- [UCSOL07 - Affective Computing (NPTEL) - for the 8th semester](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/Affective%20Computing-%20NPTEL)
+- [UCSOL07 - Affective Computing (NPTEL)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/Affective%20Computing-%20NPTEL) - for the 8th semester
 - UCSOL05 - Privacy and Security in Online Social Media (NPTEL) - for the 8th semester
   
 
