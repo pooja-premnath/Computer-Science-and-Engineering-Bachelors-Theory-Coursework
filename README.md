@@ -13,7 +13,7 @@ The subjects where I ended up making especially detailed notes are:
 
 1. **Digital Principles and System Design** (especially Synchronous and Asynchronous System Design, and Programmable Logic)
 2. **Database Management Systems** (particularly RDBMS Design and Transaction Processing)
-3. **Microprocessors, Microcontrollers, and Interfacing** (this was a tough class — tried to become proficient in 8086 programming, so lots of examples there)
+3. **Microprocessors, Microcontrollers, and Interfacing** (this was a tough class- tried to become proficient in 8086 programming, so lots of examples there)
 4. **Image Processing and Analysis** (the textbook was too fat to learn from, also added lots of practice problems)
 5. **Mathematics for Machine Learning - Honors**  (I really loved this class!)
 6. **Theory of Computation** (had to practice a lot of problems, because I found the subject really hard)
