@@ -27,14 +27,14 @@ Wherever possible, I have also linked related lab programs or project repositori
 
 ## Semester 1
 
-- UCY2176 - Engineering Chemistry  
+- [UCY2176 - Engineering Chemistry](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%201/UCY2176%20Engineering%20Chemistry)  
 - UEN2176 - Technical English  
 - UCS2176 - Problem Solving and Programming in Python  
 - UGE2197 - Engineering Graphics  
 - UGE2199 - Programming in Python Laboratory  
 - UGS2197 - Physics and Chemistry Laboratory  
 - UMA2176 - Matrices and Calculus  
-- UPH2176 - Engineering Physics  
+- [UPH2176 - Engineering Physics](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%201/UPH2176%20Engineering%20Physics)
 
 ---
 
