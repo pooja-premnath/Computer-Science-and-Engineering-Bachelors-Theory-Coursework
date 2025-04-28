@@ -1,6 +1,6 @@
 # UMA2377 - Discrete Mathematics
 
-## UNIT I: Logic and Proofs
+## Unit I: Logic and Proofs
 - Propositional Logic
 - Propositional Equivalences
 - Predicates and Quantifiers
@@ -11,7 +11,7 @@
 - Normal Forms
 - Applications to Switching Circuits
 
-## UNIT II: Combinatorics
+## Unit II: Combinatorics
 - Mathematical Induction
 - Strong Induction
 - The Pigeonhole Principle
@@ -20,7 +20,7 @@
 - Solving Linear Recurrence Relations Using Generating Functions
 - Inclusion and Exclusion Principle and Its Applications
 
-## UNIT III: Graphs
+## Unit III: Graphs
 - Graphs
 - Graph Terminology and Special Types of Graphs
 - Subgraphs
@@ -28,7 +28,7 @@
 - Connectivity
 - Eulerian and Hamiltonian Graphs
 
-## UNIT IV: Algebraic Structures
+## Unit IV: Algebraic Structures
 - Algebraic Systems
 - Semigroups and Monoids
 - Groups
@@ -37,7 +37,7 @@
 - Lagrange’s Theorem
 - Definitions and Examples of Rings and Fields
 
-## UNIT V: Lattices and Boolean Algebra
+## Unit V: Lattices and Boolean Algebra
 - Partial Ordering
 - Posets
 - Lattices as Posets
