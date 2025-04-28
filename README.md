@@ -86,7 +86,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 ## Semester 5
 
 - [UBA2541 - Principles of Management](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UBA2541%20Principles%20of%20Management)  
-- UCS2501 - Computer Networks
+- [UCS2501 - Computer Networks](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2501%20Computer%20Networks)
   - [Course Project](https://github.com/pooja-premnath/UCS2501-Computer-Networks-FTP-Server-Mini-Project): Establishing a Home PC Server: Enabling Remote File Retrieval via FTP
 - [UCS2502 - Microprocessors, Microcontrollers, and Interfacing](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2502%20Microprocessors%2C%20Microcontrollers%20and%20Interfacing)
 - [UCS2503 - Software Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2503%20Software%20Engineering)  
