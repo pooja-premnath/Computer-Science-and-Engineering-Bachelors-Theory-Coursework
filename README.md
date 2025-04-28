@@ -90,7 +90,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UCS2502 - Microprocessors, Microcontrollers, and Interfacing](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2502%20Microprocessors%2C%20Microcontrollers%20and%20Interfacing)
 - [UCS2503 - Software Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2503%20Software%20Engineering)  
 - [UCS2504 - Foundations of Artificial Intelligence](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2504%20Foundations%20of%20Artificial%20Intelligence)
-  - [Lab Work](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence)
+  - [Lab Work](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence): Uninformed, Informed and Adversarial Search, AO Star etc. 
   - [Course Mini Project](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence/tree/main/A-MazingAdventures%20Mini%20Project): A-Mazing Adventures with [VS Pranav](https://github.com/vspr14), [Sanjai Balajee KG](https://github.com/sanjaibalajee) and Sanjjit S.
 - UCS2511 - Networks Laboratory
   - [Lab Work](https://github.com/pooja-premnath/UCS2511-Networks-Laboratory): Client-Server Connectivity, Simple and Multiuser Chat, ARP, DNS, Hamming Code, Routing Protocols, Congestion Control
