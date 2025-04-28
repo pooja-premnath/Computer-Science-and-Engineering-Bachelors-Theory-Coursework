@@ -58,7 +58,8 @@ If you find any errors or have suggestions for improvements, feel free to open a
 
 - [UCS2301 - Digital Principles and System Design](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UCS2301%20Digital%20Principles%20and%20System%20Design)  
 - UCS2302 - Data Structures
-  - [Course Code Snippets](https://github.com/pooja-premnath/UCS2312-Data-Structures-in-C): BFS, Binary Search Trees, Linked List, Circular Linked List, Double Linked List, Expression Evaluation with Stacks, Inorder-Preorder-Postorder Traversal, Polynomial Evaluation etc. 
+  - [Course Code Snippets](https://github.com/pooja-premnath/UCS2312-Data-Structures-in-C): BFS, Binary Search Trees, Linked List, Circular Linked List, Double Linked List, Expression Evaluation with Stacks, Inorder-Preorder-Postorder Traversal, Polynomial Evaluation etc.
+  - [Algorithm Dry Runs](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/blob/main/Semester%203/UCS2302%20Data%20Structures/Algorithm%20Examples.pdf)
 - [UCS2303 - Object Oriented Programming](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UCS2303%20Object%20Oriented%20Programming)
   - [Course Project](https://github.com/pooja-premnath/UCS2313-Object-Oriented-Programming-Hostel-Management-System-Capstone-Project): Hostel Management System
 - UCS2311 - Digital Design Laboratory  
@@ -73,7 +74,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 
 - [UCS2401 - Computer Organization and Architecture](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2401%20Computer%20Organization%20and%20Architecture)  
 - [UCS2402 - Operating Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2402%20Operating%20Systems) 
-- UCS2403 - Design and Analysis of Algorithms
+- [UCS2403 - Design and Analysis of Algorithms](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2403%20Design%20and%20Analysis%20of%20Algorithms)
   - [Code Snippets](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/blob/main/Semester%204/UCS2403%20Design%20and%20Analysis%20of%20Algorithms/Design%20and%20Analysis%20of%20Algorithms-%20Python%20Programs.ipynb): Sorting and Searching Techniques, Dynamic Programming, Graph Algorithms etc.
 - [UCS2404 - Database Management Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2404%20Database%20Management%20Systems) 
 - UCS2411 - Database Laboratory  
