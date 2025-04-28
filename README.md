@@ -122,7 +122,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UCS2H27 - Business Intelligence  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H27%20Business%20Intelligence-Honors)
 - UEN2041 - English for Career Needs  (Open Elective)
 - [UCSOL07 - Affective Computing (NPTEL)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/Affective%20Computing-%20NPTEL) - for the 8th semester
-- UCSOL05 - Privacy and Security in Online Social Media (NPTEL) - for the 8th semester
+- [UCSOL05 - Privacy and Security in Online Social Media (NPTEL)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCSOL05%20Privacy%20and%20Security%20in%20Online%20Social%20Media-NPTEL) - for the 8th semester
   
 
 ---
