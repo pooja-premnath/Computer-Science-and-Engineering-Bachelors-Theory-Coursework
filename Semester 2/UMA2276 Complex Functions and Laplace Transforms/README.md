@@ -7,10 +7,10 @@
 - Harmonic Functions
 - Construction of Analytic Functions
 - Conformal Mapping – Standard Transformations:  
-  - \( w = z + c \)  
-  - \( w = cz \)  
-  - \( w = \frac{1}{z} \)  
-  - \( w = \overline{z} \)
+  - w = z + c  
+  - w = cz  
+  - w = 1/z  
+  - w = conjugate(z)
 - Bilinear Transformation
 
 ---
@@ -44,7 +44,7 @@
 
 ## Unit IV: Ordinary Differential Equations
 - Solution of Second and Higher Order Linear Differential Equations with Constant Coefficients  
-  - \( f(x) = e^{mx} \), \( \sin(mx) \), \( \cos(mx) \), \( f(x)e^{mx} \), \( f(x)\sin(mx) \)
+  (functions like e^(mx), sin(mx), cos(mx), f(x)e^(mx), f(x)sin(mx))
 - Method of Variation of Parameters
 - Simultaneous Linear Equations with Constant Coefficients (First Order)
 - Solving Linear Second Order Ordinary Differential Equations Using Laplace Transforms
