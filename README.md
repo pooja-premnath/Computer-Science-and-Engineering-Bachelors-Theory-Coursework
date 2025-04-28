@@ -3,7 +3,7 @@
 These are the courses I completed during my undergraduate studies in Computer Science and Engineering with Honors in Artificial Intelligence and Machine Learning. 
 
 Each semester, I would write notes to help myself understand the material better, and so that I wouldn't stare at my laptop screen too much.  
-Now that I have finished my undergraduate degree, I thought of putting them together here in case they might be helpful to others.  
+Now that I have finished my undergrad, I thought of putting them together here in case they might be helpful to others.  
 
 I have notes for most subjects, but there are a few where I put in some extra effort - either because:  
 - The subject was difficult and needed more focus, or  
@@ -20,7 +20,7 @@ The subjects where I ended up making especially detailed notes are:
 7. [**Internet Programming**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2601%20Internet%20Programming) (lots of examples on Servlets, AJAX, React, and full-stack integration in Units 3, 4 and 5)
 8. [**Distributed Systems**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2701%20Distributed%20Systems) (Liked the class and the intuitive nature of the algorithms- lots of practice examples too!)
 
-Wherever possible, I have also linked related lab programs, code snippets or project repositories for each subject.
+I intend for this repository to house mostly theoretical material- so courses which are programming heavy, like Data Structures, OOPs, Java etc. may not have unit-wise notes. However, wherever possible, I have also linked related lab programs, code snippets or project repositories for each subject.
 
 If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. I'd appreciate it! 
 
