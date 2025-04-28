@@ -11,14 +11,14 @@ I have notes for most subjects, but there are a few where I put in some extra ef
 
 The subjects where I ended up making especially detailed notes are:
 
-1. **Digital Principles and System Design** (especially Synchronous and Asynchronous System Design, and Programmable Logic)
-2. **Database Management Systems** (particularly RDBMS Design and Transaction Processing)
-3. **Microprocessors, Microcontrollers, and Interfacing** (this was a tough class- tried to become proficient in 8086 programming, so lots of examples there)
-4. **Image Processing and Analysis** (the textbook was too fat to learn from, also added lots of practice problems)
-5. **Mathematics for Machine Learning - Honors**  (I really loved this class!)
+1. [**Digital Principles and System Design**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UCS2301%20Digital%20Principles%20and%20System%20Design) (especially Synchronous and Asynchronous System Design, and Programmable Logic)
+2. [**Database Management Systems**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2404%20Database%20Management%20Systems) (particularly RDBMS Design and Transaction Processing)
+3. [**Microprocessors, Microcontrollers, and Interfacing**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2502%20Microprocessors%2C%20Microcontrollers%20and%20Interfacing) (this was a tough class- tried to become proficient in 8086 programming, so lots of examples there)
+4. [**Image Processing and Analysis**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2523%20Image%20Processing%20and%20Analysis-Elective) (the textbook was too fat to learn from, also added lots of practice problems)
+5. [**Mathematics for Machine Learning - Honors**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2H34%20Mathematics%20for%20Machine%20Learning-Honors)  (I really loved this class!)
 6. **Theory of Computation** (had to practice a lot of problems, because I found the subject really hard)
-7. **Internet Programming** (lots of examples on Servlets, AJAX, React, and full-stack integration in Units 3, 4 and 5)
-8. **Distributed Systems** (Liked the class and the intuitive nature of the algorithms- lots of practice examples too!)
+7. [**Internet Programming**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2601%20Internet%20Programming) (lots of examples on Servlets, AJAX, React, and full-stack integration in Units 3, 4 and 5)
+8. [**Distributed Systems**](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%207/UCS2701%20Distributed%20Systems) (Liked the class and the intuitive nature of the algorithms- lots of practice examples too!)
 
 Wherever possible, I have also linked related lab programs, code snippets or project repositories for each subject.
 
