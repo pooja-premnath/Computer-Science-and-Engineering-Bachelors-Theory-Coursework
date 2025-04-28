@@ -59,7 +59,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UCS2301 - Digital Principles and System Design](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UCS2301%20Digital%20Principles%20and%20System%20Design)  
 - UCS2302 - Data Structures
   - [Course Code Snippets](https://github.com/pooja-premnath/UCS2312-Data-Structures-in-C): BFS, Binary Search Trees, Linked List, Circular Linked List, Double Linked List, Expression Evaluation with Stacks, Inorder-Preorder-Postorder Traversal, Polynomial Evaluation etc. 
-- UCS2303 - Object Oriented Programming
+- [UCS2303 - Object Oriented Programming](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UCS2303%20Object%20Oriented%20Programming)
   - [Course Project](https://github.com/pooja-premnath/UCS2313-Object-Oriented-Programming-Hostel-Management-System-Capstone-Project): Hostel Management System
 - UCS2311 - Digital Design Laboratory  
 - UCS2313 - Data Structures Laboratory  
@@ -88,7 +88,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
   - [Course Project](https://github.com/pooja-premnath/UCS2501-Computer-Networks-FTP-Server-Mini-Project): Establishing a Home PC Server: Enabling Remote File Retrieval via FTP
 - [UCS2502 - Microprocessors, Microcontrollers, and Interfacing](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2502%20Microprocessors%2C%20Microcontrollers%20and%20Interfacing)
 - [UCS2503 - Software Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2503%20Software%20Engineering)  
-- UCS2504 - Foundations of Artificial Intelligence
+- [UCS2504 - Foundations of Artificial Intelligence](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%205/UCS2504%20Foundations%20of%20Artificial%20Intelligence)
   - [Lab Work](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence)
   - [Course Mini Project](https://github.com/pooja-premnath/UCS2504-Foundations-of-Artificial-Intelligence/tree/main/A-MazingAdventures%20Mini%20Project): A-Mazing Adventures with [VS Pranav](https://github.com/vspr14), [Sanjai Balajee KG](https://github.com/sanjaibalajee) and Sanjjit S.
 - UCS2511 - Networks Laboratory  
