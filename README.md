@@ -73,7 +73,8 @@ If you find any errors or have suggestions for improvements, feel free to open a
 
 - [UCS2401 - Computer Organization and Architecture](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2401%20Computer%20Organization%20and%20Architecture)  
 - [UCS2402 - Operating Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2402%20Operating%20Systems) 
-- UCS2403 - Design and Analysis of Algorithms  
+- UCS2403 - Design and Analysis of Algorithms
+  - [Code Snippets](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/blob/main/Semester%204/UCS2403%20Design%20and%20Analysis%20of%20Algorithms/Design%20and%20Analysis%20of%20Algorithms-%20Python%20Programs.ipynb): Sorting and Searching Techniques, Dynamic Programming, Graph Algorithms etc.
 - [UCS2404 - Database Management Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2404%20Database%20Management%20Systems) 
 - UCS2411 - Database Laboratory  
 - UCS2412 - Operating Systems Laboratory  
