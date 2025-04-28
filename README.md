@@ -117,7 +117,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - UCS2612 - Machine Learning Laboratory
   - [Lab Work and Tutorial Files](https://github.com/pooja-premnath/UCS2612-Machine-Learning-Laboratory)
 - [UCS2626 - Natural Language Processing and Applications  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2627%20Natural%20Language%20Processing%20and%20Applications-Elective)
-  - [Course Project](https://github.com/pooja-premnath/CheckThat-CLEF2024-From-Feature-based-Algorithms-to-Transformers-A-Study-on-Detecting-Subjectivity?tab=readme-ov-file): From Feature-based Algorithms to Transformers: A Study on Detecting Subjectivity for the CheckThat! Lab at CLEF 2024 (Ranked 3rd Place) - with [VS Pranav](https://github.com/vspr14)
+  - [Course Project](https://github.com/pooja-premnath/CheckThat-CLEF2024-From-Feature-based-Algorithms-to-Transformers-A-Study-on-Detecting-Subjectivity?tab=readme-ov-file): From Feature-based Algorithms to Transformers: A Study on Detecting Subjectivity for the CheckThat! Lab at CLEF 2024 - with [VS Pranav](https://github.com/vspr14)
 - [UCS2H26 - Computer Vision  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H26%20Computer%20Vision-Honors)
   - [Code Snippets](https://github.com/pooja-premnath/UCS2H26-ComputerVision-Honors-Coursework): 3D Point Mapping, Edge Detection, Viola Jones and Eigen Faces
 - [UCS2H27 - Business Intelligence  (Honors)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2H27%20Business%20Intelligence-Honors)
