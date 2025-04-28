@@ -42,7 +42,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 
 ## Semester 2
 
-- ACY2276 - Environmental Science  
+- [ACY2276 - Environmental Science](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/ACY2276%20Environmental%20Science)  
 - UCS2201 - Fundamentals and Practice of Software Development
   - [Course Project](https://github.com/pooja-premnath/UCS2201-Fundamentals-and-Practice-of-Software-Development-Capstone-Project): Timetable Management System using Graph Coloring Methods  
 - [UCS2202 - Foundations of Data Science](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UCS2202%20Foundations%20of%20Data%20Science)  
@@ -73,8 +73,8 @@ If you find any errors or have suggestions for improvements, feel free to open a
 
 - [UCS2401 - Computer Organization and Architecture](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2401%20Computer%20Organization%20and%20Architecture)  
 - [UCS2402 - Operating Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2402%20Operating%20Systems) 
-- UCS2404 - Design and Analysis of Algorithms  
-- [UCS2408 - Database Management Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2404%20Database%20Management%20Systems) 
+- UCS2403 - Design and Analysis of Algorithms  
+- [UCS2404 - Database Management Systems](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%204/UCS2404%20Database%20Management%20Systems) 
 - UCS2411 - Database Laboratory  
 - UCS2412 - Operating Systems Laboratory  
 - UMA2476 - Probability and Statistics  
