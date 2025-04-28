@@ -1,6 +1,5 @@
 # Affective Computing - NPTEL Course
 
-## Weekly Topics
 
 ### Week 1: Fundamentals of Affective Computing  
 ### Week 2: Emotion Theory and Emotional Design  
