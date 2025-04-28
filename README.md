@@ -50,7 +50,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UEE2276 - Basic Electrical and Electronics Engineering](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UEE2276%20Basic%20Electrical%20and%20Electronics%20Engineering)
 - UGE2297 - Design Thinking and Engineering Practices Laboratory  
 - [UHS2242 - Applications of Psychology in Everyday Life](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UHS2242%20Applications%20of%20Psychology%20in%20Everyday%20Life)
-- UMA2276 - Complex Functions and Laplace Transforms  
+- [UMA2276 - Complex Functions and Laplace Transforms](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%202/UMA2276%20Complex%20Functions%20and%20Laplace%20Transforms) 
 
 ---
 
@@ -64,8 +64,8 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - UCS2311 - Digital Design Laboratory  
 - UCS2313 - Data Structures Laboratory  
 - UCS2312 - Object Oriented Programming Laboratory  
-- UHS2373 - Universal Human Values 2: Understanding Harmony  
-- UMA2377 - Discrete Mathematics  
+- [UHS2373 - Universal Human Values 2: Understanding Harmony](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UHS2376%20Universal%20Human%20Values)
+- [UMA2377 - Discrete Mathematics](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%203/UMA2377%20Discrete%20Mathematics)  
 
 ---
 
