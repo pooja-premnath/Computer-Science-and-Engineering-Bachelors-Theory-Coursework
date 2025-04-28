@@ -11,6 +11,8 @@
 - Normal Forms
 - Applications to Switching Circuits
 
+---
+
 ## Unit II: Combinatorics
 - Mathematical Induction
 - Strong Induction
@@ -20,6 +22,8 @@
 - Solving Linear Recurrence Relations Using Generating Functions
 - Inclusion and Exclusion Principle and Its Applications
 
+---
+
 ## Unit III: Graphs
 - Graphs
 - Graph Terminology and Special Types of Graphs
@@ -27,6 +31,8 @@
 - Matrix Representation of Graphs and Graph Isomorphism
 - Connectivity
 - Eulerian and Hamiltonian Graphs
+
+---
 
 ## Unit IV: Algebraic Structures
 - Algebraic Systems
@@ -36,6 +42,8 @@
 - Normal Subgroup and Coset
 - Lagrange’s Theorem
 - Definitions and Examples of Rings and Fields
+
+---
 
 ## Unit V: Lattices and Boolean Algebra
 - Partial Ordering
