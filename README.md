@@ -24,8 +24,8 @@ I intend for this repository to house mostly theoretical material- so courses wh
 
 If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. I'd appreciate it! 
 
+**UPDATE [6th May, 2025] - While opening PDFS, if there's an 'Unable to render code block' error, please download the PDF instead, using the 'Download raw file' option.**
 
-** UPDATE [6th May, 2025] - While opening PDFS, if there's an 'Unable to render code block' error, please download the PDF instead, using the 'Download raw file' option. **
 ---
 
 
