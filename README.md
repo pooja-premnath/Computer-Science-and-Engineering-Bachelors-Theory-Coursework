@@ -115,7 +115,7 @@ If you find any errors or have suggestions for improvements, feel free to open a
 - [UCS2602 - Software System Security](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2602%20Software%20System%20Security)   
 - UCS2603 - Theory of Computation  
 - [UCS2604 - Principles of Machine Learning](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2604%20Principles%20of%20Machine%20Learning) 
-- UCS2611 - Internet Programming Laboratory
+- [UCS2611 - Internet Programming Laboratory](https://github.com/pooja-premnath/UCS2611-Internet-Programming-Laboratory)
 - UCS2612 - Machine Learning Laboratory
   - [Lab Work and Tutorial Files](https://github.com/pooja-premnath/UCS2612-Machine-Learning-Laboratory)
 - [UCS2626 - Natural Language Processing and Applications  (Elective)](https://github.com/pooja-premnath/Computer-Science-and-Engineering-Bachelors-Theory-Coursework/tree/main/Semester%206/UCS2627%20Natural%20Language%20Processing%20and%20Applications-Elective)
